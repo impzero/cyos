@@ -7,7 +7,7 @@
 
 Stories will be provided via a JSON file with the following format:
 
-```json
+```jsonc
 {
   // Each story arc will have a unique key that represents
     // the name of that particular arc.
